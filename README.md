@@ -1,6 +1,6 @@
 # Vue3 + Laravel9
 
-This template should help get you started developing with Vue 3 in Vite and Laravel 9 backend.
+This template should help get you started developing with frontend Vue 3 in Vite and backend Laravel 9.
 
 ## Recommended IDE Setup
 
@@ -28,4 +28,4 @@ npm run dev
 npm run build
 ```
 
-### About installing Laravel, see Readme file in backend folder
+### About installing Laravel, see README.md file in backend folder
